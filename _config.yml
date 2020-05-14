@@ -1,0 +1,11 @@
+plugins:
+  - jekyll-relative-links
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - final BOC.md
+  - Page 2.md
+  - Page 3.md
+  - Page 4.md
+ 
