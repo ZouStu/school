@@ -30,9 +30,9 @@ ___
 [Company Homepage](https://www.hitachivantara.com/en-us/home.html)
 
 
-[Page 1] (final BOC.md)
-[Page 2]
-[Page 3]
-[Page 4]
+[Page 1] (https://github.com/ZouStu/school/blob/master/final%20BOC.md)
+[Page 2] (https://github.com/ZouStu/school/blob/master/Page%202.md)
+[Page 3] (https://github.com/ZouStu/school/blob/master/Page%203.md)
+[Page 4] (https://github.com/ZouStu/school/blob/master/Page%204.md)
 
 
