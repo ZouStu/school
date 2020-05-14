@@ -28,6 +28,6 @@ ___
 
 [Company Homepage](https://www.hitachivantara.com/en-us/home.html)
 
-![Anvil JKU](https://images.app.goo.gl/kP64SFnSo1saWWhG6)
+![Anvil JKU](https://cdn10.bigcommerce.com/s-cn6mxlx/product_images/uploaded_images/img-3975.jpg)
 
 
